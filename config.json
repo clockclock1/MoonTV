@@ -2,1012 +2,968 @@
   "cache_time": 7200,
   "api_site": {
     "1080zyku": {
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com/inc/api_mac10.php",
       "name": "TV-1080资源",
-      "detail": "https://api.1080zyku.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com"
     },
     "155api": {
-      "api": "https://155api.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//155api.com/api.php/provide/vod",
       "name": "AV-155资源",
-      "detail": "https://155api.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//155api.com"
     },
     "360zy": {
-      "api": "https://360zy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//360zy.com/api.php/provide/vod",
       "name": "TV-360资源",
-      "detail": "https://360zy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//360zy.com"
     },
     "ckzy": {
-      "api": "https://ckzy.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ckzy.me/api.php/provide/vod",
       "name": "TV-CK资源",
-      "detail": "https://ckzy.me"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ckzy.me"
     },
     "ukuapi": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi.com/api.php/provide/vod",
       "name": "TV-U酷资源",
-      "detail": "https://api.ukuapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi.com"
     },
     "ukuapi88": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi88.com/api.php/provide/vod",
       "name": "TV-U酷资源88",
-      "detail": "https://api.ukuapi88.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi88.com"
     },
     "ikunzy": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ikunzyapi.com/api.php/provide/vod",
       "name": "TV-ikun资源",
-      "detail": "https://ikunzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ikunzyapi.com"
     },
     "wujinapi_cc": {
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.cc/api.php/provide/vod",
       "name": "TV-wujinapi无尽",
       "detail": ""
     },
     "yayazy": {
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.yayazy.net/api.php/provide/vod",
       "name": "TV-丫丫点播",
-      "detail": "https://cj.yayazy.net"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.yayazy.net"
     },
     "guangsuapi": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.guangsuapi.com/api.php/provide/vod",
       "name": "TV-光速资源",
-      "detail": "https://api.guangsuapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.guangsuapi.com"
     },
     "wolongzyw": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//collect.wolongzyw.com/api.php/provide/vod",
       "name": "TV-卧龙点播",
-      "detail": "https://collect.wolongzyw.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//collect.wolongzyw.com"
     },
     "wolongzy_cc": {
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//collect.wolongzy.cc/api.php/provide/vod",
       "name": "TV-卧龙资源",
       "detail": ""
     },
     "wolongzyw_com": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wolongzyw.com/api.php/provide/vod",
       "name": "TV-卧龙资源",
-      "detail": "https://wolongzyw.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wolongzyw.com"
     },
     "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
     "rycjapi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
       "detail": ""
     },
     "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
     "xinlangapi": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "TV-新浪点播",
-      "detail": "https://api.xinlangapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xinlangapi.com"
     },
     "wujinapi_com": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.com/api.php/provide/vod",
       "name": "TV-无尽资源",
       "detail": ""
     },
     "wujinapi_me": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.me/api.php/provide/vod",
       "name": "TV-无尽资源",
       "detail": ""
     },
     "wujinapi_net": {
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.net/api.php/provide/vod",
       "name": "TV-无尽资源",
       "detail": ""
     },
     "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
     "wwzy_api": {
-      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wwzy.tv/api.php/provide/vod",
       "name": "TV-旺旺资源",
-      "detail": "https://api.wwzy.tv"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wwzy.tv"
     },
     "bfzyapi": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//bfzyapi.com/api.php/provide/vod",
       "name": "TV-暴风资源",
       "detail": ""
     },
     "zuidazy": {
-      "api": "http://zuidazy.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//zuidazy.me/api.php/provide/vod",
       "name": "TV-最大点播",
-      "detail": "http://zuidazy.me"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//zuidazy.me"
     },
     "zuidapi": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.zuidapi.com/api.php/provide/vod",
       "name": "TV-最大资源",
-      "detail": "https://api.zuidapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.zuidapi.com"
     },
     "apiyhzy": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "TV-樱花资源",
       "detail": ""
     },
     "yparse": {
-      "api": "https://api.yparse.com/api/json",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.yparse.com/api/json",
       "name": "TV-步步高资源",
       "detail": ""
     },
     "niuniuzy": {
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.niuniuzy.me/api.php/provide/vod",
       "name": "TV-牛牛点播",
-      "detail": "https://api.niuniuzy.me"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.niuniuzy.me"
     },
     "dyttzyapi": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "TV-电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//caiji.dyttzyapi.com"
     },
     "bwzyz": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.bwzyz.com/api.php/provide/vod",
       "name": "AV-百万资源",
-      "detail": "https://api.bwzyz.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.bwzyz.com"
     },
     "apibdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.apibdzy.com/api.php/provide/vod",
       "name": "TV-百度云资源",
-      "detail": "https://api.apibdzy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.apibdzy.com"
     },
     "1080zyku_json": {
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com/inc/apijson.php/",
       "name": "TV-神马云",
-      "detail": "https://api.1080zyku.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com"
     },
     "suoniapi": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//suoniapi.com/api.php/provide/vod",
       "name": "TV-索尼资源",
       "detail": ""
     },
     "hongniuzy2": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.hongniuzy2.com/api.php/provide/vod",
       "name": "TV-红牛资源",
-      "detail": "https://www.hongniuzy2.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.hongniuzy2.com"
     },
     "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
     },
     "huyaapi": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.huyaapi.com/api.php/provide/vod",
       "name": "TV-虎牙资源",
-      "detail": "https://www.huyaapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.huyaapi.com"
     },
     "dbzy_caiji": {
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.dbzy.tv/api.php/provide/vod",
       "name": "TV-豆瓣资源",
-      "detail": "https://caiji.dbzy.tv"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.dbzy.tv"
     },
     "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
     "hhzyapi": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//hhzyapi.com/api.php/provide/vod",
       "name": "TV-豪华资源",
-      "detail": "https://hhzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//hhzyapi.com"
     },
     "subocaiji": {
-      "api": "https://subocaiji.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//subocaiji.com/api.php/provide/vod",
       "name": "TV-速博资源",
       "detail": ""
     },
     "lziapi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.lziapi.com/api.php/provide/vod",
       "name": "TV-量子资源",
       "detail": ""
     },
     "jinyingzy": {
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jinyingzy.com/api.php/provide/vod",
       "name": "TV-金鹰点播",
-      "detail": "https://jinyingzy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jinyingzy.com"
     },
     "jyzyapi": {
-      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jyzyapi.com/api.php/provide/vod",
       "name": "TV-金鹰资源",
-      "detail": "https://jyzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jyzyapi.com"
     },
     "sdzyapi": {
-      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//sdzyapi.com/api.php/provide/vod",
       "name": "TV-闪电资源",
-      "detail": "https://sdzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//sdzyapi.com"
     },
     "ffzyapi": {
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.ffzyapi.com/api.php/provide/vod",
       "name": "TV-非凡资源",
-      "detail": "https://cj.ffzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.ffzyapi.com"
     },
     "p2100": {
-      "api": "https://p2100.net/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//p2100.net/api.php/provide/vod",
       "name": "TV-飘零资源",
-      "detail": "https://p2100.net"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//p2100.net"
     },
     "mozhuazy": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//mozhuazy.com/api.php/provide/vod",
       "name": "TV-魔爪资源",
-      "detail": "https://mozhuazy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//mozhuazy.com"
     },
     "moduapi": {
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.moduapi.cc/api.php/provide/vod",
       "name": "TV-魔都动漫",
-      "detail": "https://caiji.moduapi.cc"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.moduapi.cc"
     },
     "mdzyapi": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.mdzyapi.com/api.php/provide/vod",
       "name": "TV-魔都资源",
-      "detail": "https://www.mdzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.mdzyapi.com"
     },
     "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//heimuer.tv"
     },
     "heimuer02": {
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json02.heimuer.xyz/api.php/provide/vod",
       "name": "TV-黑木耳点播",
-      "detail": "https://json02.heimuer.xyz"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json02.heimuer.xyz"
     },
     "91md": {
-      "api": "https://91md.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//91md.me/api.php/provide/vod",
       "name": "AV-91麻豆",
-      "detail": "https://91md.me"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//91md.me"
     },
     "lbapiby": {
-      "api": "http://lbapiby.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//lbapiby.com/api.php/provide/vod",
       "name": "AV-AIvin",
       "detail": ""
     },
     "jkunzyapi": {
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jkunzyapi.com/api.php/provide/vod",
       "name": "AV-JKUN资源",
-      "detail": "https://jkunzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jkunzyapi.com"
     },
     "souavzy": {
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.souavzy.vip/api.php/provide/vod",
       "name": "AV-souav资源",
-      "detail": "https://api.souavzy.vip"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.souavzy.vip"
     },
     "lbapi9": {
-      "api": "https://lbapi9.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//lbapi9.com/api.php/provide/vod",
       "name": "AV-乐播资源",
       "detail": ""
     },
     "aosikazy": {
-      "api": "https://aosikazy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//aosikazy.com/api.php/provide/vod",
       "name": "AV-奥斯卡资源",
-      "detail": "https://aosikazy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//aosikazy.com"
     },
     "naixxzy": {
-      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//Naixxzy.com/api.php/provide/vod",
       "name": "AV-奶香香",
-      "detail": "https://Naixxzy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//Naixxzy.com"
     },
     "slapibf": {
-      "api": "https://slapibf.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//slapibf.com/api.php/provide/vod",
       "name": "AV-森林资源",
-      "detail": "https://slapibf.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//slapibf.com"
     },
     "xrbsp": {
-      "api": "https://www.xrbsp.com/api/json.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.xrbsp.com/api/json.php",
       "name": "AV-淫水机资源",
-      "detail": "https://www.xrbsp.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.xrbsp.com"
     },
     "apiyutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apiyutu.com/api.php/provide/vod",
       "name": "AV-玉兔资源",
-      "detail": "https://apiyutu.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apiyutu.com"
     },
     "fhapi9": {
-      "api": "http://fhapi9.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//fhapi9.com/api.php/provide/vod",
       "name": "AV-番号资源",
       "detail": ""
     },
     "kxgav": {
-      "api": "https://www.kxgav.com/api/json.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.kxgav.com/api/json.php",
       "name": "AV-白嫖资源",
-      "detail": "https://www.kxgav.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.kxgav.com"
     },
     "jingpinx": {
-      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.jingpinx.com/api.php/provide/vod",
       "name": "AV-精品资源",
-      "detail": "https://www.jingpinx.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.jingpinx.com"
     },
     "msnii": {
-      "api": "https://www.msnii.com/api/json.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.msnii.com/api/json.php",
       "name": "AV-美少女资源",
-      "detail": "https://www.msnii.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.msnii.com"
     },
     "apilsbzy1": {
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilsbzy1.com/api.php/provide/vod",
       "name": "AV-老色逼资源",
-      "detail": "https://apilsbzy1.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilsbzy1.com"
     },
     "sexnguon": {
-      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.sexnguon.com/api.php/provide/vod",
       "name": "AV-色嗨国",
-      "detail": "https://api.sexnguon.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.sexnguon.com"
     },
     "maozyapi": {
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.maozyapi.com/inc/apijson_vod.php",
       "name": "AV-色猫资源",
-      "detail": "https://api.maozyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.maozyapi.com"
     },
     "apilj": {
-      "api": "https://apilj.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilj.com/api.php/provide/vod",
       "name": "AV-辣椒资源",
-      "detail": "https://apilj.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilj.com"
     },
     "gdlsp": {
-      "api": "https://www.gdlsp.com/api/json.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.gdlsp.com/api/json.php",
       "name": "AV-香奶儿资源",
-      "detail": "https://www.gdlsp.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.gdlsp.com"
     },
     "shayuapi": {
-      "api": "https://shayuapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//shayuapi.com/api.php/provide/vod",
       "name": "AV-鲨鱼资源",
-      "detail": "https://shayuapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//shayuapi.com"
     },
     "pgxdy": {
-      "api": "https://www.pgxdy.com/api/json.php",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.pgxdy.com/api/json.php",
       "name": "AV-黄AV资源",
-      "detail": "https://www.pgxdy.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.pgxdy.com"
     },
     "ffzynew": {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡影视new",
-      "detail": "http://ffzy5.tv"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//ffzy5.tv"
     },
     "jszyapi": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
-      "detail": "https://jszyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jszyapi.com"
     },
     "gayapi": {
-      "api": "https://gayapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//gayapi.com/api.php/provide/vod",
       "name": "快播资源网站"
     },
     "xingba111": {
-      "api": "https://xingba111.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//xingba111.com/api.php/provide/vod",
       "name": "性吧资源"
     },
     "aiduanju": {
-      "api": "https://www.aiduanju.cc/",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.aiduanju.cc/",
       "name": "爱短剧.cc"
     },
     "huawei8": {
-      "api": "https://huawei8.live/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//huawei8.live/api.php/provide/vod",
       "name": "华为吧资源"
     },
     "taopianapi": {
-      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//taopianapi.com/cjapi/sda/vod",
       "name": "淘片资源"
     },
     "hongniuzy3": {
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
     },
     "xsd_sdzyapi": {
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
     "jyzyapi_provide": {
-      "api": "https://jyzyapi.com/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
     },
     "fczy888": {
-      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库"
     },
     "jmzy": {
-      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.jmzy.com/api.php/provide/vod",
       "name": "金马资源网"
     },
     "dadiapi": {
-      "api": "https://dadiapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
     },
     "hsckzy888": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//hsckzy888.com/api.php/provide/vod",
       "name": "黄色资源啊啊"
     },
     "xiaojizy": {
-      "api": "https://api.xiaojizy.live/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
     },
     "kuaichezy": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
     },
     "xinlangapi_provide": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "新浪资源阿"
     },
     "apilj_provide": {
-      "api": "https://apilj.com/api.php/provide",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
     },
     "yzzy_api": {
-      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
     },
     "iqiyizyapi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
     "xxibaozyw": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
     "qiqidys": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     },
     "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//caiji.dyttzyapi.com"
     },
     "ruyi": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
     "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//ffzy5.tv"
     },
     "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
     "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
     },
     "jisu": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
-      "detail": "https://jszyapi.com"
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jszyapi.com"
     },
     "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源"
     },
     "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
     },
     "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源"
     },
     "yinghua": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//m3u8.apiyhzy.com/api.php/provide/vod",
       "name": "樱花资源"
     },
     "wujin": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源"
     },
     "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
     "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "proxy1080zyku": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.1080zyku.com/inc/api_mac10.php",
+    "api_1": {
       "name": "TV-1080资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.1080zyku.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com/inc/api_mac10.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com"
     },
-    "proxy155api": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://155api.com/api.php/provide/vod",
+    "api_2": {
       "name": "AV-155资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://155api.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//155api.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//155api.com"
     },
-    "proxy360zy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://360zy.com/api.php/provide/vod",
+    "api_3": {
       "name": "TV-360资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://360zy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//360zy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//360zy.com"
     },
-    "proxyckzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://ckzy.me/api.php/provide/vod",
+    "api_4": {
       "name": "TV-CK资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://ckzy.me"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ckzy.me/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ckzy.me"
     },
-    "proxyukuapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.ukuapi.com/api.php/provide/vod",
+    "api_5": {
       "name": "TV-U酷资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.ukuapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi.com"
     },
-    "proxyukuapi88": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "TV-U酷资源88",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.ukuapi88.com"
+    "api_6": {
+      "name": "TV-U酷资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.ukuapi88.com"
     },
-    "proxyikunzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://ikunzyapi.com/api.php/provide/vod",
+    "api_7": {
       "name": "TV-ikun资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://ikunzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ikunzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//ikunzyapi.com"
     },
-    "proxywujinapi_cc": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.wujinapi.cc/api.php/provide/vod",
+    "api_8": {
       "name": "TV-wujinapi无尽",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.cc/api.php/provide/vod",
       "detail": ""
     },
-    "proxyyayazy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://cj.yayazy.net/api.php/provide/vod",
+    "api_9": {
       "name": "TV-丫丫点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://cj.yayazy.net"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.yayazy.net"
     },
-    "proxyguangsuapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.guangsuapi.com/api.php/provide/vod",
+    "api_10": {
       "name": "TV-光速资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.guangsuapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.guangsuapi.com"
     },
-    "proxywolongzyw": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://collect.wolongzyw.com/api.php/provide/vod",
+    "api_11": {
       "name": "TV-卧龙点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://collect.wolongzyw.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//collect.wolongzyw.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//collect.wolongzyw.com"
     },
-    "proxywolongzy_cc": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://collect.wolongzy.cc/api.php/provide/vod",
+    "api_12": {
       "name": "TV-卧龙资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//collect.wolongzy.cc/api.php/provide/vod",
       "detail": ""
     },
-    "proxywolongzyw_com": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://wolongzyw.com/api.php/provide/vod",
+    "api_13": {
       "name": "TV-卧龙资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://wolongzyw.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wolongzyw.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wolongzyw.com"
     },
-    "proxytyyszy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+    "api_14": {
+      "name": "TV-天涯资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//tyyszy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//tyyszy.com"
     },
-    "proxyrycjapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://cj.rycjapi.com/api.php/provide/vod",
+    "api_15": {
       "name": "TV-如意资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.rycjapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyxiaomaomi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+    "api_16": {
+      "name": "TV-小猫咪资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//zy.xmm.hk/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//zy.xmm.hk"
     },
-    "proxyxinlangapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "api_17": {
       "name": "TV-新浪点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.xinlangapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xinlangapi.com"
     },
-    "proxywujinapi_com": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.wujinapi.com/api.php/provide/vod",
+    "api_18": {
       "name": "TV-无尽资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxywujinapi_me": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.wujinapi.me/api.php/provide/vod",
+    "api_19": {
       "name": "TV-无尽资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.me/api.php/provide/vod",
       "detail": ""
     },
-    "proxywujinapi_net": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.wujinapi.net/api.php/provide/vod",
+    "api_20": {
       "name": "TV-无尽资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wujinapi.net/api.php/provide/vod",
       "detail": ""
     },
-    "proxywwzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
+    "api_21": {
+      "name": "TV-旺旺短剧",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wwzy.tv/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//wwzy.tv"
     },
-    "proxywwzy_api": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.wwzy.tv/api.php/provide/vod",
+    "api_22": {
       "name": "TV-旺旺资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.wwzy.tv"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wwzy.tv/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.wwzy.tv"
     },
-    "proxybfzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://bfzyapi.com/api.php/provide/vod",
+    "api_23": {
       "name": "TV-暴风资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//bfzyapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyzuidazy": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://zuidazy.me/api.php/provide/vod",
+    "api_24": {
       "name": "TV-最大点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/http://zuidazy.me"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//zuidazy.me/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//zuidazy.me"
     },
-    "proxyzuidapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.zuidapi.com/api.php/provide/vod",
+    "api_25": {
       "name": "TV-最大资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.zuidapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.zuidapi.com"
     },
-    "proxyapiyhzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "api_26": {
       "name": "TV-樱花资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyyparse": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.yparse.com/api/json",
+    "api_27": {
       "name": "TV-步步高资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.yparse.com/api/json",
       "detail": ""
     },
-    "proxyniuniuzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.niuniuzy.me/api.php/provide/vod",
+    "api_28": {
       "name": "TV-牛牛点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.niuniuzy.me"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.niuniuzy.me"
     },
-    "proxydyttzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "api_29": {
       "name": "TV-电影天堂资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/http://caiji.dyttzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//caiji.dyttzyapi.com"
     },
-    "proxybwzyz": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.bwzyz.com/api.php/provide/vod",
+    "api_30": {
       "name": "AV-百万资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.bwzyz.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.bwzyz.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.bwzyz.com"
     },
-    "proxyapibdzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.apibdzy.com/api.php/provide/vod",
+    "api_31": {
       "name": "TV-百度云资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.apibdzy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.apibdzy.com"
     },
-    "proxy1080zyku_json": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.1080zyku.com/inc/apijson.php/",
+    "api_32": {
       "name": "TV-神马云",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.1080zyku.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.1080zyku.com"
     },
-    "proxysuoniapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://suoniapi.com/api.php/provide/vod",
+    "api_33": {
       "name": "TV-索尼资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//suoniapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyhongniuzy2": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.hongniuzy2.com/api.php/provide/vod",
+    "api_34": {
       "name": "TV-红牛资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.hongniuzy2.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.hongniuzy2.com"
     },
-    "proxymaotaizy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
+    "api_35": {
+      "name": "TV-茅台资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.maotaizy.cc"
     },
-    "proxyhuyaapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.huyaapi.com/api.php/provide/vod",
+    "api_36": {
       "name": "TV-虎牙资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.huyaapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.huyaapi.com"
     },
-    "proxydbzy_caiji": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://caiji.dbzy.tv/api.php/provide/vod",
+    "api_37": {
       "name": "TV-豆瓣资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://caiji.dbzy.tv"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.dbzy.tv/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.dbzy.tv"
     },
-    "proxydbzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源"
+    "api_38": {
+      "name": "TV-豆瓣资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//dbzy.tv/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//dbzy.tv"
     },
-    "proxyhhzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://hhzyapi.com/api.php/provide/vod",
+    "api_39": {
       "name": "TV-豪华资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://hhzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//hhzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//hhzyapi.com"
     },
-    "proxysubocaiji": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://subocaiji.com/api.php/provide/vod",
+    "api_40": {
       "name": "TV-速博资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//subocaiji.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxylziapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://cj.lziapi.com/api.php/provide/vod",
+    "api_41": {
       "name": "TV-量子资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.lziapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyjinyingzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://jinyingzy.com/api.php/provide/vod",
+    "api_42": {
       "name": "TV-金鹰点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://jinyingzy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jinyingzy.com"
     },
-    "proxyjyzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://jyzyapi.com/api.php/provide/vod",
+    "api_43": {
       "name": "TV-金鹰资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://jyzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jyzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jyzyapi.com"
     },
-    "proxysdzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://sdzyapi.com/api.php/provide/vod",
-      "name": "TV-闪电资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://sdzyapi.com"
+    "api_44": {
+      "name": "TV-閃電资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//sdzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//sdzyapi.com"
     },
-    "proxyffzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://cj.ffzyapi.com/api.php/provide/vod",
+    "api_45": {
       "name": "TV-非凡资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://cj.ffzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.ffzyapi.com"
     },
-    "proxyp2100": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://p2100.net/api.php/provide/vod",
+    "api_46": {
       "name": "TV-飘零资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://p2100.net"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//p2100.net/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//p2100.net"
     },
-    "proxymozhuazy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://mozhuazy.com/api.php/provide/vod",
+    "api_47": {
       "name": "TV-魔爪资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://mozhuazy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//mozhuazy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//mozhuazy.com"
     },
-    "proxymoduapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://caiji.moduapi.cc/api.php/provide/vod",
+    "api_48": {
       "name": "TV-魔都动漫",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://caiji.moduapi.cc"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.moduapi.cc"
     },
-    "proxymdzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.mdzyapi.com/api.php/provide/vod",
+    "api_49": {
       "name": "TV-魔都资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.mdzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.mdzyapi.com"
     },
-    "proxyheimuer": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://heimuer.tv"
+    "api_50": {
+      "name": "TV-黑木耳",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json.heimuer.xyz/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json.heimuer.xyz"
     },
-    "proxyheimuer02": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://json02.heimuer.xyz/api.php/provide/vod",
+    "api_51": {
       "name": "TV-黑木耳点播",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://json02.heimuer.xyz"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json02.heimuer.xyz/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//json02.heimuer.xyz"
     },
-    "proxy91md": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://91md.me/api.php/provide/vod",
+    "api_52": {
       "name": "AV-91麻豆",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://91md.me"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//91md.me/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//91md.me"
     },
-    "proxylbapiby": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://lbapiby.com/api.php/provide/vod",
+    "api_53": {
       "name": "AV-AIvin",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//lbapiby.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyjkunzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://jkunzyapi.com/api.php/provide/vod",
+    "api_54": {
       "name": "AV-JKUN资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://jkunzyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jkunzyapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jkunzyapi.com"
     },
-    "proxysouavzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.souavzy.vip/api.php/provide/vod",
+    "api_55": {
       "name": "AV-souav资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.souavzy.vip"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.souavzy.vip/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.souavzy.vip"
     },
-    "proxylbapi9": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://lbapi9.com/api.php/provide/vod",
+    "api_56": {
       "name": "AV-乐播资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//lbapi9.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxyaosikazy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://aosikazy.com/api.php/provide/vod",
+    "api_57": {
       "name": "AV-奥斯卡资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://aosikazy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//aosikazy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//aosikazy.com"
     },
-    "proxynaixxzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://Naixxzy.com/api.php/provide/vod",
+    "api_58": {
       "name": "AV-奶香香",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://Naixxzy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//Naixxzy.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//Naixxzy.com"
     },
-    "proxyslapibf": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://slapibf.com/api.php/provide/vod",
+    "api_59": {
       "name": "AV-森林资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://slapibf.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//slapibf.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//slapibf.com"
     },
-    "proxyxrbsp": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.xrbsp.com/api/json.php",
+    "api_60": {
       "name": "AV-淫水机资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.xrbsp.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.xrbsp.com/api/json.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.xrbsp.com"
     },
-    "proxyapiyutu": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://apiyutu.com/api.php/provide/vod",
+    "api_61": {
       "name": "AV-玉兔资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://apiyutu.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apiyutu.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apiyutu.com"
     },
-    "proxyfhapi9": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://fhapi9.com/api.php/provide/vod",
+    "api_62": {
       "name": "AV-番号资源",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=http%3A//fhapi9.com/api.php/provide/vod",
       "detail": ""
     },
-    "proxykxgav": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.kxgav.com/api/json.php",
+    "api_63": {
       "name": "AV-白嫖资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.kxgav.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.kxgav.com/api/json.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.kxgav.com"
     },
-    "proxyjingpinx": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.jingpinx.com/api.php/provide/vod",
+    "api_64": {
       "name": "AV-精品资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.jingpinx.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.jingpinx.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.jingpinx.com"
     },
-    "proxymsnii": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.msnii.com/api/json.php",
+    "api_65": {
       "name": "AV-美少女资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.msnii.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.msnii.com/api/json.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.msnii.com"
     },
-    "proxyapilsbzy1": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://apilsbzy1.com/api.php/provide/vod",
+    "api_66": {
       "name": "AV-老色逼资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://apilsbzy1.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilsbzy1.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilsbzy1.com"
     },
-    "proxysexnguon": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.sexnguon.com/api.php/provide/vod",
-      "name": "AV-色嗨国",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.sexnguon.com"
+    "api_67": {
+      "name": "AV-色南国",
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.sexnguon.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.sexnguon.com"
     },
-    "proxymaozyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.maozyapi.com/inc/apijson_vod.php",
+    "api_68": {
       "name": "AV-色猫资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://api.maozyapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.maozyapi.com/inc/apijson_vod.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.maozyapi.com"
     },
-    "proxyapilj": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://apilj.com/api.php/provide/vod",
+    "api_69": {
       "name": "AV-辣椒资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://apilj.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilj.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilj.com"
     },
-    "proxygdlsp": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.gdlsp.com/api/json.php",
+    "api_70": {
       "name": "AV-香奶儿资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.gdlsp.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.gdlsp.com/api/json.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.gdlsp.com"
     },
-    "proxyshayuapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://shayuapi.com/api.php/provide/vod",
+    "api_71": {
       "name": "AV-鲨鱼资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://shayuapi.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//shayuapi.com/api.php/provide/vod",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//shayuapi.com"
     },
-    "proxypgxdy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.pgxdy.com/api/json.php",
+    "api_72": {
       "name": "AV-黄AV资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://www.pgxdy.com"
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.pgxdy.com/api/json.php",
+      "detail": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.pgxdy.com"
     },
-    "proxyffzynew": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.ffzyapi.com/api.php/provide/vod",
-      "name": "非凡影视new",
-      "detail": "https://suibian.clockclock1.dpdns.org/http://ffzy5.tv"
-    },
-    "proxyjszyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://jszyapi.com"
-    },
-    "proxygayapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://gayapi.com/api.php/provide/vod",
+    "kauiboziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//gayapi.com/api.php/provide/vod",
       "name": "快播资源网站"
     },
-    "proxyxingba111": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://xingba111.com/api.php/provide/vod",
-      "name": "性吧资源"
+    "xingbaziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//xingba111.com/api.php/provide/vod",
+      "name": "杏吧资源"
     },
-    "proxyaiduanju": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.aiduanju.cc/",
+    "liangziziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源"
+    },
+    "senlinziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
+    "aiduanjucc": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.aiduanju.cc/",
       "name": "爱短剧.cc"
     },
-    "proxyhuawei8": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://huawei8.live/api.php/provide/vod",
+    "huaweiba": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//huawei8.live/api.php/provide/vod",
       "name": "华为吧资源"
     },
-    "proxytaopianapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://taopianapi.com/cjapi/sda/vod",
+    "taopian": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//taopianapi.com/cjapi/sda/vod",
       "name": "淘片资源"
     },
-    "proxyhongniuzy3": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.hongniuzy3.com/api.php/provide/vod",
+    "hongniuziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
     },
-    "proxyxsd_sdzyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://xsd.sdzyapi.com/api.php/provide/vod",
+    "suonisandian": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
-    "proxyjyzyapi_provide": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://jyzyapi.com/provide/vod",
+    "yayaziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.yayazy.net/api.php/provide/vod",
+      "name": "鸭鸭资源"
+    },
+    "jinyingziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
     },
-    "proxyfczy888": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.fczy888.me/api.php/provide/vod",
+    "fengchao": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库"
     },
-    "proxyjmzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.jmzy.com/api.php/provide/vod",
+    "jinmaziyuan2": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.jmzy.com/api.php/provide/vod",
       "name": "金马资源网"
     },
-    "proxydadiapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://dadiapi.com/api.php/provide/vod",
+    "dadiziy": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
     },
-    "proxyhsckzy888": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://hsckzy888.com/api.php/provide/vod",
+    "huangseziy": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//hsckzy888.com/api.php/provide/vod",
       "name": "黄色资源啊啊"
     },
-    "proxyxiaojizy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.xiaojizy.live/provide/vod",
+    "xiaojiziy": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
     },
-    "proxykuaichezy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://caiji.kuaichezy.org/api.php/provide",
+    "kauicheziyuan": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
     },
-    "proxyxinlangapi_provide": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "xinlangaa": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "新浪资源阿"
     },
-    "proxyapilj_provide": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://apilj.com/api.php/provide",
+    "lajiaoziyu": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
     },
-    "proxyyzzy_api": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+    "youzhidianying": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
     },
-    "proxyiqiyizyapi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.iqiyizyapi.com/api.php/provide/vod",
+    "iqiyi": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
-    "proxyxxibaozyw": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.xxibaozyw.com/api.php/provide/vod",
+    "xibaocaiji": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
-    "proxyqiqidys": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.qiqidys.com/api.php/provide/vod/",
+    "qiqiqiqi": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     },
-    "proxydyttzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/http://caiji.dyttzyapi.com"
+    "yingshigongchang": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//cj.lziapi.com/api.php/provide/vod/",
+      "name": "影视工厂"
     },
-    "proxyruyi": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
-    },
-    "proxybfzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
-    },
-    "proxyffzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "https://suibian.clockclock1.dpdns.org/http://ffzy5.tv"
-    },
-    "proxyzy360": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
-    "proxywolong": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
-    },
-    "proxyjisu": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "detail": "https://suibian.clockclock1.dpdns.org/https://jszyapi.com"
-    },
-    "proxymozhua": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源"
-    },
-    "proxymdzy": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
-    },
-    "proxyzuid": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
-    },
-    "proxyyinghua": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源"
-    },
-    "proxywujin": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
-    },
-    "proxyikun": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
-    },
-    "proxylzi": {
-      "api": "https://suibian.clockclock1.dpdns.org/https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+    "fantuanyingshi": {
+      "api": "https://jiexi.clockclock1.dpdns.org/?url=https%3A//www.fantuan.tv/api.php/provide/vod/",
+      "name": "饭团影视"
     }
   }
 }
